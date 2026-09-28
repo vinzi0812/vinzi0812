@@ -1,183 +1,97 @@
-<h1 align="left">Vineet Parmar</h1>
+<h1 align="center">Hi, I'm Vineet Parmar 👋</h1>
 
-###
-
-<p align="left">Computer Engineering Student at Sardar Patel Institute of Technology (SPIT), Mumbai <br><br>Personal Email: vineetjparmar@gmail.com<br>Student Email: vineet.parmar@spit.ac.in</p>
-
-###
-
-<h2 align="left">About Me</h2>
-
-###
-
-<p align="left">I am an enthusiastic and driven software developer with a passion for problem-solving and a strong desire to learn and grow in my field. I am a quick learner and thrive under pressure, consistently delivering high-quality work on tight deadlines. With a strong foundation in computer science principles and experience in a variety of programming languages, I am confident in my ability to adapt and excel in any development environment. I am excited to bring my skills and dedication to a dynamic and innovative team, and I am eager to contribute to the success of projects and initiatives that drive meaningful change.</p>
-
-###
-
-<h2 align="left">Technical Skills</h2>
-
-###
-
-<h4 align="left">Languages:</h4>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-</div>
-
-###
-
-<h4 align="left">Front End & It's Frameworks:</h4>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-</div>
-
-###
-
-<h4 align="left">Backend Frameworks:</h4>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-</div>
-
-###
-
-<h4 align="left">Databases:</h4>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-</div>
-
-###
-
-<h4 align="left">Version Control:</h4>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-</div>
-
-###
-
-<h4 align="left">Miscellaneous:</h4>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-
-###
-
-<h2 align="left">Experience</h2>
-
-###
-
-<p align="left">
-  <ul list-style-type="circle">
-    <li>Ex- Full Stack Web Developer Intern @ SPTBI, wherein I reformed their website. (July 2023)</li>
-    <li>Currently working on creating a website for the Training & Placement Office of SPIT.</li>
-    <li>JPMC CFG'23 Finalist - Made a Website to tackle water supply problems by improving communication between end users and suppliers.</li>
-    <li>Made an 'AI Answer Generator' (Synopify) (April 2023)</li>
-    <li>Collaborated on the event website for "Code Red" - Oculus Coding League (2022-23)</li>
-    <li>Made a College Website as DBMS Mini-Project (October 2022)</li>
-    <li>Made a Graph-Traversal based Interactive Game called 'Bandersnatch' as DS Mini-Project (October 2022)</li>
-  </ul>
+<p align="center">
+  <b>Software Developer at JPMorganChase</b> &nbsp;·&nbsp; Computer Engineering, SPIT Mumbai
 </p>
 
-###
+<p align="center">
+  <a href="https://www.linkedin.com/in/vineetjparmar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:vineetjparmar@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://x.com/Vinzi_0812"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <img src="https://komarev.com/ghpvc/?username=vinzi0812&style=for-the-badge&color=0A66C2&label=Profile+views" alt="Profile views" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinzi0812&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=vinzi0812&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+---
 
-###
+### About me
 
-<h2 align="left">Connect with me:</h2>
+I'm a software developer at **JPMorganChase** (since July 2025), building software for one of the world's largest financial institutions. I studied Computer Engineering at Sardar Patel Institute of Technology, Mumbai, and I enjoy working across the stack: from REST APIs and databases to polished front ends and, lately, native macOS apps.
 
-###
+- 💼 Software Developer @ JPMorganChase (Jul 2025 – present)
+- 🍎 Currently learning Swift and SwiftUI by building **[Notch](https://github.com/vinzi0812/notch)**, a Dynamic Island-style app for the MacBook notch
+- 🌱 Interested in backend systems, clean architecture and good developer tooling
+- 📫 Best way to reach me: [LinkedIn](https://www.linkedin.com/in/vineetjparmar/) or [email](mailto:vineetjparmar@gmail.com)
 
-<br clear="both">
+---
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/vineetjparmar/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/Vinzi_0812" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="mailto:vineetjparmar@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://instagram.com/vinzi_0812" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
+### Tech stack
 
-###
+**Languages**
 
-![snake gif](https://github.com/vinzi0812/vinzi0812/blob/output/github-contribution-grid-snake.gif)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,ts,js,swift,c,cpp&perline=10" alt="Languages" />
+</p>
 
-###
+**Backend & Databases**
 
-<div align="center">
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,django,flask,nodejs,postgres,mysql,mongodb,sqlite&perline=10" alt="Backend and databases" />
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,bootstrap&perline=10" alt="Frontend" />
+</p>
+
+**Tools & Cloud**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,gcp,maven,vscode,idea,xcode,figma&perline=10" alt="Tools and cloud" />
+</p>
+
+---
+
+### Featured projects
+
+| Project | What it is | Built with |
+| --- | --- | --- |
+| [**Notch**](https://github.com/vinzi0812/notch) | Dynamic Island-style macOS app: battery and charging activity, Pomodoro timer, next calendar event, file shelf and Now Playing controls | Swift · SwiftUI · AppKit |
+| [**NoteVault**](https://github.com/vinzi0812/NoteVault) | Collaborative platform for students to share notes, question papers and resources, with faculty review | Python · Django |
+| [**Dhulikona**](https://github.com/vinzi0812/Dhulikona) | JPMC Code for Good '23 finalist: helps villagers report water-supply issues and tracks pump operation and water quality | Web · OTP auth |
+| [**SPIT TPO Website**](https://github.com/vinzi0812/SPIT-TPO-Website) | Portal for the Training & Placement Office at SPIT | React · Chakra UI |
+
+---
+
+### Experience & highlights
+
+- **Software Developer, JPMorganChase** (Jul 2025 – present)
+- **Full Stack Web Developer Intern, SPTBI** (Jul 2023): rebuilt the incubator's website
+- **Finalist, JPMorganChase Code for Good 2023**
+- Built *Synopify*, an AI answer generator (2023)
+- Collaborated on the event website for *Code Red*, Oculus Coding League (2022–23)
+
+---
+
+### GitHub stats
+
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" height="165" alt="GitHub stats" />
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" height="165" alt="Most committed languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vinzi0812&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vinzi0812/vinzi0812/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+</p>
+
+---
+
+<p align="center">
   <a href="https://open.spotify.com/user/31nhpe6ea3lqp3sc4vdhqx23szyy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31nhpe6ea3lqp3sc4vdhqx23szyy" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31nhpe6ea3lqp3sc4vdhqx23szyy&count=3" alt="Spotify recently played" />
   </a>
-</div>
-
-###
+</p>
